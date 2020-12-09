@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/escsrl/repository/compare/v1.0.2...v1.1.0) (2020-12-09)
+
+
+### Features
+
+* upgrade to symfony 5.1 ([cefbbf4](https://github.com/escsrl/repository/commit/cefbbf49dbcbc3a793284c8a84e2e4ba872eff99))
+
 ### [1.0.2](https://github.com/escsrl/repository/compare/v1.0.1...v1.0.2) (2020-07-20)
 
 
