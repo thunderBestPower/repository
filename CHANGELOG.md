@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/thunderBestPower/repository/compare/v1.1.0...v2.0.0) (2022-03-11)
+
+
+### Bug Fixes
+
+* eliminata libreria Carbon per inutilizzo ([29af15b](https://github.com/thunderBestPower/repository/commit/29af15bb2584083d97308192cb920f3b476fe890))
+
 ## [1.1.0](https://github.com/escsrl/repository/compare/v1.0.2...v1.1.0) (2020-12-09)
 
 
