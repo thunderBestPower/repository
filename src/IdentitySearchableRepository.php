@@ -1,6 +1,6 @@
 <?php
 
-namespace Esc\Repository;
+namespace BlueWeb\Repository;
 
 interface IdentitySearchableRepository
 {

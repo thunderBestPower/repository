@@ -1,6 +1,6 @@
 <?php
 
-namespace Esc\Repository;
+namespace BlueWeb\Repository;
 
 use Symfony\Component\HttpFoundation\Session\Attribute\AttributeBag;
 

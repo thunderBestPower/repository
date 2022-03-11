@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Esc\Repository;
+namespace BlueWeb\Repository;
 
 
 use Doctrine\Bundle\DoctrineBundle\Repository\ServiceEntityRepository;
