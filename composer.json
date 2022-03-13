@@ -21,7 +21,7 @@
         "beberlei/assert": "^3.2",
         "doctrine/doctrine-bundle": "^2.0",
         "doctrine/orm": "^2.7",
-        "sensio/framework-extra-bundle": "^5.5",
+        "sensio/framework-extra-bundle": "^6.0",
         "symfony/security-bundle": "^6.0",
         "symfony/serializer-pack": "^1.0"
     },
@@ -31,5 +31,5 @@
     "config": {
         "sort-packages": true
     },
-    "version": "2.0.2"
+    "version": "2.0.3"
 }
