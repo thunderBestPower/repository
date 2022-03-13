@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.3](https://github.com/thunderBestPower/repository/compare/v2.0.2...v2.0.3) (2022-03-13)
+
+
+### Bug Fixes
+
+* library version ([d63a4bf](https://github.com/thunderBestPower/repository/commit/d63a4bfd9fa06c597121f7bc0bf066101ac61afe))
+
 ### [2.0.2](https://github.com/thunderBestPower/repository/compare/v2.0.1...v2.0.2) (2022-03-11)
 
 
